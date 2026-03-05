@@ -1,0 +1,6 @@
+config.env
+templates
+scripts
+docs
+*.csv
+functionapps/

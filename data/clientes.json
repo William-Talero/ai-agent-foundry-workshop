@@ -1,0 +1,185 @@
+[
+  {
+    "id": "CLI-1001",
+    "nombre": "María García López",
+    "cedula": "1234567890",
+    "email": "maria.garcia@email.com",
+    "telefono": "+57 310 555 1234",
+    "edad": 35,
+    "ingresos_mensuales": 5500000,
+    "score_crediticio": 750,
+    "antiguedad_laboral_meses": 48,
+    "ocupacion": "Ingeniera de Software",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-001",
+        "nombre": "Crédito Personal Flex",
+        "monto_aprobado": 15000000,
+        "saldo_actual": 8500000,
+        "cuota_mensual": 350000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2024-03-15"
+      },
+      {
+        "producto_id": "CRED-003",
+        "nombre": "Tarjeta de Crédito Contoso Gold",
+        "cupo_aprobado": 10000000,
+        "cupo_utilizado": 3200000,
+        "cupo_disponible": 6800000,
+        "estado": "al_dia",
+        "fecha_apertura": "2023-06-01"
+      }
+    ],
+    "solicitudes_pendientes": []
+  },
+  {
+    "id": "CLI-1002",
+    "nombre": "Carlos Rodríguez Martínez",
+    "cedula": "0987654321",
+    "email": "carlos.rodriguez@email.com",
+    "telefono": "+57 315 555 5678",
+    "edad": 42,
+    "ingresos_mensuales": 8000000,
+    "score_crediticio": 820,
+    "antiguedad_laboral_meses": 120,
+    "ocupacion": "Director Comercial",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-002",
+        "nombre": "Crédito Hipotecario Hogar",
+        "monto_aprobado": 250000000,
+        "saldo_actual": 180000000,
+        "cuota_mensual": 2100000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2022-01-20"
+      },
+      {
+        "producto_id": "CRED-004",
+        "nombre": "Crédito Vehículo Express",
+        "monto_aprobado": 60000000,
+        "saldo_actual": 25000000,
+        "cuota_mensual": 950000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2023-09-10"
+      },
+      {
+        "producto_id": "CRED-003",
+        "nombre": "Tarjeta de Crédito Contoso Gold",
+        "cupo_aprobado": 20000000,
+        "cupo_utilizado": 12000000,
+        "cupo_disponible": 8000000,
+        "estado": "al_dia",
+        "fecha_apertura": "2021-03-15"
+      }
+    ],
+    "solicitudes_pendientes": [
+      {
+        "id": "SOL-5001",
+        "tipo": "ampliacion_cupo",
+        "producto": "Tarjeta de Crédito Contoso Gold",
+        "estado": "en_revision",
+        "fecha_solicitud": "2025-02-28"
+      }
+    ]
+  },
+  {
+    "id": "CLI-1003",
+    "nombre": "Ana Sofía Pérez Díaz",
+    "cedula": "1122334455",
+    "email": "ana.perez@email.com",
+    "telefono": "+57 320 555 9012",
+    "edad": 28,
+    "ingresos_mensuales": 3200000,
+    "score_crediticio": 680,
+    "antiguedad_laboral_meses": 24,
+    "ocupacion": "Diseñadora Gráfica",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-003",
+        "nombre": "Tarjeta de Crédito Contoso Gold",
+        "cupo_aprobado": 5000000,
+        "cupo_utilizado": 4800000,
+        "cupo_disponible": 200000,
+        "estado": "al_dia",
+        "fecha_apertura": "2024-01-10"
+      }
+    ],
+    "solicitudes_pendientes": [
+      {
+        "id": "SOL-5002",
+        "tipo": "credito_nuevo",
+        "producto": "Crédito Personal Flex",
+        "monto_solicitado": 10000000,
+        "estado": "documentacion_pendiente",
+        "fecha_solicitud": "2025-03-01",
+        "documentos_faltantes": ["Certificado laboral actualizado", "Extractos bancarios últimos 3 meses"]
+      }
+    ]
+  },
+  {
+    "id": "CLI-1004",
+    "nombre": "Roberto Jiménez Torres",
+    "cedula": "5566778899",
+    "email": "roberto.jimenez@email.com",
+    "telefono": "+57 300 555 3456",
+    "edad": 55,
+    "ingresos_mensuales": 12000000,
+    "score_crediticio": 900,
+    "antiguedad_laboral_meses": 240,
+    "ocupacion": "Gerente General",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-002",
+        "nombre": "Crédito Hipotecario Hogar",
+        "monto_aprobado": 400000000,
+        "saldo_actual": 50000000,
+        "cuota_mensual": 3500000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2018-06-15"
+      },
+      {
+        "producto_id": "CRED-001",
+        "nombre": "Crédito Personal Flex",
+        "monto_aprobado": 50000000,
+        "saldo_actual": 0,
+        "cuota_mensual": 0,
+        "estado": "pagado",
+        "fecha_desembolso": "2023-01-10"
+      },
+      {
+        "producto_id": "CRED-003",
+        "nombre": "Tarjeta de Crédito Contoso Gold",
+        "cupo_aprobado": 30000000,
+        "cupo_utilizado": 5000000,
+        "cupo_disponible": 25000000,
+        "estado": "al_dia",
+        "fecha_apertura": "2019-11-20"
+      }
+    ],
+    "solicitudes_pendientes": []
+  },
+  {
+    "id": "CLI-1005",
+    "nombre": "Laura Martínez Gómez",
+    "cedula": "6677889900",
+    "email": "laura.martinez@email.com",
+    "telefono": "+57 318 555 7890",
+    "edad": 31,
+    "ingresos_mensuales": 4000000,
+    "score_crediticio": 620,
+    "antiguedad_laboral_meses": 18,
+    "ocupacion": "Emprendedora - Tienda Online",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-005",
+        "nombre": "Microcrédito Emprendedor",
+        "monto_aprobado": 8000000,
+        "saldo_actual": 6200000,
+        "cuota_mensual": 320000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2024-11-05"
+      }
+    ],
+    "solicitudes_pendientes": []
+  }
+]

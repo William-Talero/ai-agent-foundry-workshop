@@ -1,0 +1,39 @@
+[
+  {
+    "id": "TKT-3001",
+    "cliente_id": "CLI-1002",
+    "tipo": "reclamo",
+    "asunto": "Cobro no reconocido en tarjeta de crédito",
+    "descripcion": "El cliente reporta un cobro de $350.000 en su tarjeta de crédito que no reconoce, realizado el 2025-02-20 en un establecimiento desconocido.",
+    "estado": "en_proceso",
+    "prioridad": "alta",
+    "fecha_creacion": "2025-02-25",
+    "fecha_actualizacion": "2025-03-05",
+    "agente_asignado": "Equipo de Fraude"
+  },
+  {
+    "id": "TKT-3002",
+    "cliente_id": "CLI-1003",
+    "tipo": "solicitud",
+    "asunto": "Solicitud de certificado de deuda al día",
+    "descripcion": "La cliente necesita un certificado que acredite que está al día con sus obligaciones financieras para trámite de visa.",
+    "estado": "resuelto",
+    "prioridad": "media",
+    "fecha_creacion": "2025-03-01",
+    "fecha_actualizacion": "2025-03-03",
+    "agente_asignado": "Servicio al Cliente",
+    "resolucion": "Certificado generado y enviado al email registrado."
+  },
+  {
+    "id": "TKT-3003",
+    "cliente_id": "CLI-1005",
+    "tipo": "consulta",
+    "asunto": "Información sobre reestructuración de crédito",
+    "descripcion": "La cliente desea conocer opciones de reestructuración para su microcrédito debido a baja temporal en ventas.",
+    "estado": "abierto",
+    "prioridad": "media",
+    "fecha_creacion": "2025-03-08",
+    "fecha_actualizacion": "2025-03-08",
+    "agente_asignado": "Retención y Fidelización"
+  }
+]
