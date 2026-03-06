@@ -109,6 +109,12 @@ Para clientes con dificultades de pago:
 - Créditos: Se cancela automáticamente al completar el pago total
 - Se emite paz y salvo dentro de los 5 días hábiles siguientes
 
+### 6.3 Compra de Cartera y Refinanciación
+- Se permite compra de cartera de hasta 5 obligaciones externas por cliente
+- El cliente debe presentar certificación de saldo con vigencia máxima de 30 días
+- Solo aplica para obligaciones sin mora mayor a 30 días en los últimos 12 meses
+- Si hay ahorro financiero proyectado menor al 5%, la operación puede ser rechazada por no conveniencia
+
 ---
 
 ## 7. Protección al Consumidor
@@ -125,3 +131,31 @@ Todos los créditos incluyen:
 - Seguro de vida deudores (cubre saldo en caso de fallecimiento)
 - Los créditos hipotecarios incluyen adicionalmente seguro de incendio y terremoto
 - Las tarjetas incluyen seguro de fraude
+
+---
+
+## 8. Excepciones y Comité de Crédito
+
+### 8.1 Casos que requieren comité
+Las siguientes solicitudes requieren revisión en comité:
+- Monto solicitado mayor al 90% del límite máximo del producto
+- Score por debajo del mínimo del producto con ingresos altos demostrables
+- Historial de mora mayor a 30 días en los últimos 24 meses
+- Inconsistencias documentales detectadas en validaciones
+
+### 8.2 Reglas de aprobación por excepción
+- Toda excepción debe quedar documentada con justificación comercial y de riesgo
+- Requiere aprobación de al menos dos niveles: analista senior + líder de riesgo
+- No se permiten excepciones cuando exista alerta de fraude activa
+
+---
+
+## 9. Tiempos de Respuesta (SLA)
+
+| Proceso | Tiempo objetivo | Tiempo máximo |
+|---|---:|---:|
+| Preaprobación digital | 15 minutos | 2 horas |
+| Aprobación crédito personal | 24 horas | 48 horas |
+| Aprobación tarjeta de crédito | 48 horas | 72 horas |
+| Revisión de reclamo por transacción | 5 días hábiles | 15 días hábiles |
+| Emisión de paz y salvo | 2 días hábiles | 5 días hábiles |

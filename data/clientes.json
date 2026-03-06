@@ -181,5 +181,112 @@
       }
     ],
     "solicitudes_pendientes": []
+  },
+  {
+    "id": "CLI-1006",
+    "nombre": "Julián Herrera Castro",
+    "cedula": "7788990011",
+    "email": "julian.herrera@email.com",
+    "telefono": "+57 314 555 2244",
+    "edad": 39,
+    "ingresos_mensuales": 6700000,
+    "score_crediticio": 705,
+    "antiguedad_laboral_meses": 72,
+    "ocupacion": "Jefe de Operaciones",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-004",
+        "nombre": "Crédito Vehículo Express",
+        "monto_aprobado": 90000000,
+        "saldo_actual": 47000000,
+        "cuota_mensual": 1320000,
+        "estado": "mora_30",
+        "fecha_desembolso": "2023-04-25"
+      },
+      {
+        "producto_id": "CRED-003",
+        "nombre": "Tarjeta de Crédito Contoso Gold",
+        "cupo_aprobado": 12000000,
+        "cupo_utilizado": 11800000,
+        "cupo_disponible": 200000,
+        "estado": "al_dia",
+        "fecha_apertura": "2022-07-12"
+      }
+    ],
+    "solicitudes_pendientes": [
+      {
+        "id": "SOL-5003",
+        "tipo": "reestructuracion",
+        "producto": "Crédito Vehículo Express",
+        "estado": "en_revision",
+        "fecha_solicitud": "2026-02-27"
+      }
+    ]
+  },
+  {
+    "id": "CLI-1007",
+    "nombre": "Patricia Rojas Benítez",
+    "cedula": "8899001122",
+    "email": "patricia.rojas@email.com",
+    "telefono": "+57 316 555 7788",
+    "edad": 47,
+    "ingresos_mensuales": 9800000,
+    "score_crediticio": 845,
+    "antiguedad_laboral_meses": 168,
+    "ocupacion": "Médica Especialista",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-007",
+        "nombre": "Crédito de Libranza Plus",
+        "monto_aprobado": 65000000,
+        "saldo_actual": 22000000,
+        "cuota_mensual": 1180000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2021-10-08"
+      },
+      {
+        "producto_id": "CRED-003",
+        "nombre": "Tarjeta de Crédito Contoso Gold",
+        "cupo_aprobado": 25000000,
+        "cupo_utilizado": 7400000,
+        "cupo_disponible": 17600000,
+        "estado": "al_dia",
+        "fecha_apertura": "2020-12-03"
+      }
+    ],
+    "solicitudes_pendientes": []
+  },
+  {
+    "id": "CLI-1008",
+    "nombre": "Diego Mendoza Salazar",
+    "cedula": "9900112233",
+    "email": "diego.mendoza@email.com",
+    "telefono": "+57 311 555 8899",
+    "edad": 26,
+    "ingresos_mensuales": 2900000,
+    "score_crediticio": 598,
+    "antiguedad_laboral_meses": 10,
+    "ocupacion": "Analista de Marketing",
+    "productos_actuales": [
+      {
+        "producto_id": "CRED-005",
+        "nombre": "Microcrédito Emprendedor",
+        "monto_aprobado": 3500000,
+        "saldo_actual": 3050000,
+        "cuota_mensual": 210000,
+        "estado": "al_dia",
+        "fecha_desembolso": "2025-09-01"
+      }
+    ],
+    "solicitudes_pendientes": [
+      {
+        "id": "SOL-5004",
+        "tipo": "tarjeta_credito",
+        "producto": "Tarjeta de Crédito Contoso Gold",
+        "estado": "rechazada_preaprobacion",
+        "fecha_solicitud": "2026-01-15",
+        "motivo": "score_insuficiente"
+      }
+    ]
   }
 ]

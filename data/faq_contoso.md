@@ -52,6 +52,23 @@ Sí, puede realizar abonos extraordinarios en cualquier momento sin penalizació
 - **Reducción de plazo:** Se mantiene la cuota y se reduce el número de meses.
 - **Reducción de cuota:** Se mantiene el plazo y se reduce el valor de la cuota mensual.
 
+### ¿Cuáles son los medios para pagar mis cuotas?
+Puede pagar sus cuotas por:
+- **PSE en línea** desde la app y portal web.
+- **Débito automático** desde cuenta de ahorros o corriente.
+- **Corresponsales bancarios** aliados a nivel nacional.
+- **Ventanilla en sucursal** con número de obligación.
+
+Los pagos por canales digitales se reflejan entre inmediato y 2 horas. En corresponsales, hasta 24 horas hábiles.
+
+### ¿Cómo consulto el estado de una solicitud pendiente?
+Puede revisar el estado de sus solicitudes por:
+1. App Contoso > Mis solicitudes
+2. Portal web > Productos > Solicitudes
+3. Línea de atención con número de cédula y número de radicado
+
+Estados habituales: `recibida`, `en_revision`, `documentacion_pendiente`, `aprobada`, `rechazada`.
+
 ### ¿Qué pasa si no puedo pagar mi cuota a tiempo?
 Si tiene dificultades para pagar su cuota:
 1. Contáctenos inmediatamente para explorar opciones.
@@ -81,6 +98,11 @@ Para solicitar aumento de cupo:
 - Acumula 2 puntos por cada $1.000 en compras internacionales
 - Los puntos no expiran mientras la tarjeta esté activa
 - Puede redimir puntos en: viajes, productos, descuentos en cuota de manejo, abono a saldo
+
+### ¿Qué debo hacer si tengo una transacción duplicada en tarjeta?
+1. Verifique primero en la app si una de las transacciones está en estado "pendiente".
+2. Si ambas aparecen aplicadas por más de 48 horas, abra un caso por reclamo de consumo duplicado.
+3. Tiempo promedio de respuesta: 5 a 12 días hábiles según franquicia.
 
 ---
 
@@ -117,3 +139,24 @@ Desde la app puede:
 - Bloquear/desbloquear tarjetas
 - Chatear con un asesor
 - Generar certificados y extractos
+
+### ¿Cómo actualizo mi correo o teléfono?
+Puede hacerlo en:
+1. App > Perfil > Datos de contacto.
+2. Sucursal con documento original.
+3. Línea telefónica con validación biométrica y preguntas de seguridad.
+
+El cambio se aplica en línea para canales digitales y en máximo 1 día hábil para canales operativos.
+
+---
+
+## Emprendedores y Pymes
+
+### ¿Qué apoyo ofrece Contoso para negocios pequeños?
+Contoso ofrece microcrédito, compra de cartera y acompañamiento financiero básico para flujo de caja, formalización y control de deuda.
+
+### ¿Puedo pedir un segundo microcrédito si ya tengo uno activo?
+Sí, se puede evaluar un segundo crédito si:
+- El comportamiento de pago del crédito actual es satisfactorio.
+- La capacidad de pago soporta ambas cuotas.
+- El negocio mantiene operación estable y ventas verificables.

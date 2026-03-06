@@ -81,5 +81,33 @@
     "requisitos": ["Ser mayor de 16 años (con codeudor si es menor de 18)", "Carta de admisión de institución educativa", "Codeudor con ingresos mínimos de $2.000.000"],
     "beneficios": ["Período de gracia durante estudios", "Tasa preferencial para posgrado", "Seguro de desempleo incluido"],
     "estado": "activo"
+  },
+  {
+    "id": "CRED-007",
+    "nombre": "Crédito de Libranza Plus",
+    "tipo": "libranza",
+    "descripcion": "Crédito con descuento por nómina para empleados con convenio empresarial activo.",
+    "tasa_anual": "11.3%",
+    "monto_minimo": 2000000,
+    "monto_maximo": 80000000,
+    "plazo_minimo_meses": 12,
+    "plazo_maximo_meses": 96,
+    "requisitos": ["Contrato laboral vigente", "Convenio de libranza con el empleador", "Ingresos mínimos de $2.000.000", "Score crediticio mayor a 620"],
+    "beneficios": ["Tasa preferencial por descuento directo", "Sin codeudor hasta $40.000.000", "Aprobación en 24-48 horas"],
+    "estado": "activo"
+  },
+  {
+    "id": "CRED-008",
+    "nombre": "Compra de Cartera Inteligente",
+    "tipo": "compra_cartera",
+    "descripcion": "Producto para unificar deudas de otras entidades en una sola cuota con mejor tasa.",
+    "tasa_anual": "13.9%",
+    "monto_minimo": 3000000,
+    "monto_maximo": 120000000,
+    "plazo_minimo_meses": 12,
+    "plazo_maximo_meses": 84,
+    "requisitos": ["Certificación de saldo de obligaciones actuales", "No presentar mora mayor a 30 días en los últimos 12 meses", "Ingresos mínimos de $2.500.000"],
+    "beneficios": ["Una sola cuota mensual", "Posibilidad de reducir tasa frente a créditos vigentes", "Asesoría para plan de pago personalizado"],
+    "estado": "activo"
   }
 ]

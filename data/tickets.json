@@ -35,5 +35,55 @@
     "fecha_creacion": "2025-03-08",
     "fecha_actualizacion": "2025-03-08",
     "agente_asignado": "Retención y Fidelización"
+  },
+  {
+    "id": "TKT-3004",
+    "cliente_id": "CLI-1001",
+    "tipo": "consulta",
+    "asunto": "Duda sobre abono extraordinario a crédito personal",
+    "descripcion": "La cliente quiere aplicar un abono de $2.000.000 y solicita confirmar el impacto entre reducción de plazo o cuota.",
+    "estado": "resuelto",
+    "prioridad": "baja",
+    "fecha_creacion": "2026-01-18",
+    "fecha_actualizacion": "2026-01-19",
+    "agente_asignado": "Servicio al Cliente",
+    "resolucion": "Se explicó simulación de ambas opciones y se aplicó reducción de plazo por preferencia del cliente."
+  },
+  {
+    "id": "TKT-3005",
+    "cliente_id": "CLI-1006",
+    "tipo": "reestructuracion",
+    "asunto": "Solicitud de ajuste de cuota por disminución de ingresos",
+    "descripcion": "Cliente solicita reestructuración del Crédito Vehículo Express para disminuir cuota mensual durante 6 meses.",
+    "estado": "en_proceso",
+    "prioridad": "alta",
+    "fecha_creacion": "2026-02-27",
+    "fecha_actualizacion": "2026-03-10",
+    "agente_asignado": "Cartera Preventiva"
+  },
+  {
+    "id": "TKT-3006",
+    "cliente_id": "CLI-1007",
+    "tipo": "solicitud",
+    "asunto": "Incremento de cupo en tarjeta de crédito",
+    "descripcion": "Cliente solicita incremento de cupo de $25.000.000 a $35.000.000 por viaje internacional programado.",
+    "estado": "cerrado",
+    "prioridad": "media",
+    "fecha_creacion": "2026-02-05",
+    "fecha_actualizacion": "2026-02-07",
+    "agente_asignado": "Mesa de Crédito",
+    "resolucion": "Solicitud aprobada parcialmente: cupo actualizado a $30.000.000."
+  },
+  {
+    "id": "TKT-3007",
+    "cliente_id": "CLI-1008",
+    "tipo": "reclamo",
+    "asunto": "Inconformidad por rechazo de preaprobación",
+    "descripcion": "Cliente solicita revisión de criterios aplicados en la preaprobación de tarjeta de crédito.",
+    "estado": "abierto",
+    "prioridad": "media",
+    "fecha_creacion": "2026-03-11",
+    "fecha_actualizacion": "2026-03-11",
+    "agente_asignado": "Defensoría del Cliente"
   }
 ]
